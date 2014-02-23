@@ -14,3 +14,9 @@
  body{
  	padding-top: 40px;
  }
+ .status .admin{
+ 	display: none;
+ }
+ .status.hover .admin{
+ 	display: inline;
+ }
